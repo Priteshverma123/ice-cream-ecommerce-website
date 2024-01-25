@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name":" COMBO OF THREE",
+        "price": 200,
+        "image": "image/cone1.png"
+    },
+    {
+        "id": 2,
+        "name":" CHOCOLATE-VANILLA",
+        "price": 150,
+        "image": "image/cone2.png"
+    },
+    {
+        "id": 3,
+        "name":" CHOCOLATE CONE",
+        "price": 90,
+        "image": "image/cone3.png"
+    },
+    {
+        "id": 4,
+        "name":" DOUBLE CHOCOLATE CANDY",
+        "price": 30,
+        "image": "image/candy1.png"
+    },
+    {
+        "id": 5,
+        "name":" COMBO OF THREE",
+        "price": 100,
+        "image": "image/candy2.png"
+    },
+    {
+        "id": 6,
+        "name":" ORANGE CANDY",
+        "price": 200,
+        "image": "image/candy3.png"
+    },
+    {
+        "id": 7,
+        "name":" CHOCOLATE-STRAWBERRY-VANILLA",
+        "price": 200,
+        "image": "image/cup1.png"
+    },
+    {
+        "id": 8,
+        "name":" PISTA-DOUBLE CHOCOLATE",
+        "price": 150,
+        "image": "image/cup2.png"
+    },
+    {
+        "id": 9,
+        "name":" CUP  ICE-CREAM",
+        "price": 200,
+        "image": "image/cup3.png"
+    },
+    {
+        "id": 10,
+        "name":" FAMILYPACK",
+        "price": 200,
+        "image": "image/box1.png"
+    },
+    {
+        "id": 11,
+        "name":" VANILLA FAMILYPACK",
+        "price": 200,
+        "image": "image/box3.png"
+    },
+    {
+        "id": 12,
+        "name":" STRAWBERRY PACK",
+        "price": 200,
+        "image": "image/box4.png"
+    }
+
+]
