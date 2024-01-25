@@ -3,105 +3,105 @@
     {
       "id": 1,
       "title": "COMBO OF THREE",
-      "price": "130",
+      "price": "13",
       "url": "./images/cone1.png",
       "category": "Dresses"
     },
     {
       "id": 2,
       "title": "CHOCOLATE-VANILLA",
-      "price": "210",
+      "price": "20",
       "url": "./images/cone2.png",
       "category": "Dresses"
     },
     {
       "id": 3,
       "title": "BLISSFULL FAMILY PACK- MANGO",
-      "price": "90",
+      "price": "15",
       "url": "./images/box2.png",
       "category": "Jewellery"
     },
     {
       "id": 4,
       "title": "BLISSFUL VANILLA",
-      "price": "100",
+      "price": "10",
       "url": "./images/box3.png",
       "category": "Jewellery"
     },
     {
       "id": 5,
       "title": "CHOCOLATE CHIP",
-      "price": "100",
+      "price": "5",
       "url": "./images/cone3.png",
       "category": "Dresses"
     },
     {
       "id": 6,
       "title": "DOUBLE CHOCOLATE CANDY",
-      "price": "50",
+      "price": "5",
       "url": "./images/candy1.png",
       "category": "Accessories"
     },
     {
       "id": 7,
       "title": "CHOCOLATE-STRAWBERRY-VANILLA",
-      "price": "50",
+      "price": "5",
       "url": "./images/cup1.png",
       "category": "Footwear"
     },
     {
       "id": 8,
       "title": "PISTA-CHOCOLATE",
-      "price": "300",
+      "price": "3",
       "url": "./images/cup2.png",
       "category": "Footwear"
     },
     {
       "id": 9,
       "title": "FAMILY FLAVORS",
-      "price": "300",
+      "price": "20",
       "url": "./images/cup3.png",
       "category": "Footwear"
     },
     {
       "id": 10,
       "title": "COMBO OF THREE",
-      "price": "300",
+      "price": "30",
       "url": "./images/candy2.png",
       "category": "Accessories"
     },
     {
       "id": 11,
       "title": "ORANGE CANDY",
-      "price": "700",
+      "price": "7",
       "url": "./images/candy3.png",
       "category": "Accessories"
     },
     {
       "id": 12,
       "title": "BLISSFUL FLAVORS",
-      "price": "500",
+      "price": "10",
       "url": "./images/cone5.png",
       "category": "Accessories"
     },
     {
       "id": 13,
       "title": "CHOCOCHIP CONE",
-      "price": "900",
+      "price": "9",
       "url": "./images/cone6.png",
       "category": "Accessories"
     },
     {
       "id": 14,
       "title": "STRAWBERRY FAMILY PACK",
-      "price": "100",
+      "price": "10",
       "url": "./images/box4.png",
       "category": "Accessories"
     },
     {
       "id": 15,
       "title": "COMBO OF THREE",
-      "price": "250",
+      "price": "25",
       "url": "./images/cup3.png",
       "category": "Accessories"
     }

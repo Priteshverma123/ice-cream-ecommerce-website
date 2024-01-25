@@ -599,7 +599,6 @@ img {
   visibility: visible;
 }
 .categories .product:hover .cart-btn {
-  visibility: visible;
   opacity: 1;
 }
 .categories .button {
